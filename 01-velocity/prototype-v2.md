@@ -30,3 +30,8 @@ _A NEW partner, a blind read. What landed differently from v1?_
 - **Feels like a real product, or a mockup?** [My own answers as I changed partner] It still feels a bit like a mock up but the actionability of risk makes it feel much more real, as well as being able to track progress
 - **Where interactivity fell short:** I cannot see how churn changes AFTER my actions - e.g. I cannot see if an account has improved health after the action or not. An onboarding call should increase the use of key features, how do I know there is at least correlation?
 - **Would they show it to a VP?** Not yet - because it does not show that a hypothesis (intervention) is tested, it only collates a snapshot and a list of events. It feels more like a tracker than an insightful dashboard at this stage
+
+- <img width="1262" height="561" alt="image" src="https://github.com/user-attachments/assets/1c16a1d7-5fb4-4450-87ea-752180c2bf83" />
+<img width="1392" height="818" alt="image" src="https://github.com/user-attachments/assets/ddad7b0a-4c17-4dd8-af9b-8d91da5457b9" />
+
+
