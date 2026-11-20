@@ -21,7 +21,7 @@ _Tick the scenario you built in Lab 1 (the same one you selected in the lab guid
 
 - **What I built:** My prototype gives users an overview of the state of churn. Primarily highlighting the % churning, the ARR at risk and the main reasons identified for churning. The idea is to highlight areas of improvements to protect more ARR and identifying the main accounts at risk
 - **Tool used:** Lovable
-- **Shareable link:** https://first-ninety-signal.lovable.app
+- **Shareable link:** https://first-90-days-watchtower.lovable.app
 
 ## Show & Swap read
 
